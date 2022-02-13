@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">RecyclerView1</string>
+    <string name="app_name">RecyclerView e Arrays</string>
+    <string name="recebeu_click">"\nRecebeu um click!"</string>
+    <string name="recebeu_click_longo">"\nRecebeu um click longo!"</string>
+
+    <string name="bruce">Bruce Banner</string>
+    <string name="tony">Tony Stark</string>
+    <string name="steve">Steve Rogers</string>
 </resources>
